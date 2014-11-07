@@ -1,4 +1,7 @@
 *.log
+.project
+.idea
+.DS_Store
 .htaccess
 sitemap.xml
 sitemap.xml.gz
