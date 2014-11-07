@@ -14,3 +14,6 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+deploy.php
+deploy-config.php
+deploy-config.example.php
