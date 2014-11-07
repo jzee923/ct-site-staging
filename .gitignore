@@ -1,6 +1,7 @@
 *.log
 .project
 .idea
+nbproject
 .DS_Store
 .htaccess
 sitemap.xml
